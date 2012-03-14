@@ -1,0 +1,61 @@
+.home {
+	text-align:center
+}
+.home h1
+{
+	font-weight:bold;
+	font-size:1.2em
+}
+.home p
+{
+	color:#666;
+	font-size:0.8em;
+	line-height:1.6em;
+	margin:10px 20px 20px 20px
+}
+.home h2
+{
+	color:#999;
+	font-size:0.7em
+}
+.blog p
+{
+	color:#555;
+	padding:20px 20px 0 20px;
+	font-size:1em;
+	line-height:1.4em
+}
+
+.list-item-title
+{
+    float:left;
+    width:100%;
+    font-size:90%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.list-item-narrative
+{
+    float:left;
+    width:100%;
+    color:#666666;
+    font-size:80%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.x-item-selected .list-item-title
+{
+    color:#ffffff;
+}
+.x-item-selected .list-item-narrative
+{
+    color:#ffffff;
+}
+.statsList {
+	font-size: 14px;
+}
+.ui-li-count {
+	float: right;
+}
